@@ -5,7 +5,7 @@ Enter a Sudoku puzzle in a 9x9 grid, and this app will solve it instantly using 
 
 ---
 #Demo:
-Acess the app:-"https://localhost:8501/"
+Acess the app:-"https://suduku-solver-uwp5afzeeag73zmvhzhtft.streamlit.app/"
 ## 🚀 Features
 
 - Interactive 9x9 grid for puzzle input
